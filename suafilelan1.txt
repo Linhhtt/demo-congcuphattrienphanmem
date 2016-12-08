@@ -1,2 +1,0 @@
-lan 1 - suafilelan1
-lan 2 - sua noi dung lan commit 2
